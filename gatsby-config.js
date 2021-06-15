@@ -109,9 +109,11 @@ module.exports = {
         preconnect: ["https://fonts.gstatic.com"],
         web: [
           {
-            name: "Lato",
+            // name: "Lato",
+            name: "Montserrat",
             file:
-              "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap",
+              // "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap",
+              "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap",
           },
         ],
       },
