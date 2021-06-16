@@ -5,7 +5,6 @@ date: '2019-03-06'
 type: post
 authors:
   - shell-yeah
-
 ---
 ## Da tempore In editus quantum aratro
 
